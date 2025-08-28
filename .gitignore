@@ -1,0 +1,61 @@
+# Visionwave Video Pack .gitignore
+
+# Output/converted files - users will generate these locally
+converted/
+output/
+
+# Video files - don't track user's source or processed videos
+*.mp4
+*.avi
+*.mov
+*.wmv
+*.webm
+*.flv
+*.3gp
+*.mpeg
+*.mpg
+*.ogv
+*.m4v
+*.ts
+*.vob
+*.asf
+*.f4v
+
+# Audio files - don't track extracted or processed audio
+*.wav
+*.mp3
+*.flac
+*.aac
+*.ogg
+*.wma
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# System files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Test/experimental files
+test*.bat
+experimental*.bat
+backup*.bat
+old*.bat
+temp*.bat
+
+# Log files
+*.log
+
+# Windows specific
+ehthumbs.db
+ehthumbs_vista.db
