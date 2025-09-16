@@ -297,6 +297,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Designed for Windows batch processing workflows
 - Created for those who need efficient, safe video conversion tools
 
+## Attribution
+Icons designed by Shuvo.Das from Flaticon (https://www.flaticon.com/authors/shuvodas/2), licensed under Flaticon Free License (https://www.flaticon.com/legal).
+Color edited to match thumbnail theme.
+
 ---
 
-**Note**: This toolkit is designed for Windows environments and requires FFmpeg. All processing maintains video quality while providing safe, non-destructive workflows. The extensive format support makes it ideal for media professionals working with diverse video sources.
+**Note**: This toolkit is designed for Windows environments and requires FFmpeg. All processing maintains video quality while providing safe, non-destructive workflows.
